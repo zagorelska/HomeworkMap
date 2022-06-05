@@ -1,0 +1,8 @@
+into;на
+English;англійська
+Ukrainian;українська
+using;використовуючи
+vocabulary;словник
+translation;переклад
+from;з
+text;текст
